@@ -53,4 +53,4 @@ Previously: pharma BI (regional analytics, CRM data) and consulting (data strate
 
 ---
 
-📬 Available for freelance engagements in **pharma BI** and **NbS data systems** — reach out via [LinkedIn](https://linkedin.com/in/achmadnaufal) or open an issue on a relevant repo.
+📬 Available for freelance engagements in **pharma BI** and **NbS data systems** — reach out via [LinkedIn](https://linkedin.com/in/achnfl) or open an issue on a relevant repo.
