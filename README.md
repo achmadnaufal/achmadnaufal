@@ -34,7 +34,11 @@ Lead Data Analyst working on **nature-based solutions**, carbon markets, and fie
 | [xlsform-debugger-v2](https://github.com/achmadnaufal/xlsform-debugger-v2) | Debug KoboToolbox / ODK XLSForms locally before deployment. Uses the same enketo-core renderer Kobo does, so what you test is what your field team sees. | TypeScript · enketo-core · FastAPI |
 | [panelharga](https://github.com/achmadnaufal/panelharga) · [live](https://panelharga.achmadnaufal.com) | Bulk-downloads Indonesian food commodity prices from the Kementan panel harga site — every province and commodity at once, instead of exporting one at a time by hand. | Python |
 | [banjir-achmadnaufal](https://github.com/achmadnaufal/banjir-achmadnaufal) · [live](https://banjir.achmadnaufal.com) | Mobile-first PWA for the Pesanggrahan water-gate post in Jakarta. Live water level with a browser alarm when it crosses into a higher siaga band. No backend — reads the public DSDA DKI endpoints directly. | TypeScript · Cloudflare Pages |
-| [publication](https://github.com/achmadnaufal/publication) | Research papers on applied statistics & ML. | R · Python |
+
+### Published Research
+
+- **Evaluation of performance of drought prediction in Indonesia based on TRMM and MERRA-2 using machine learning methods** — *MethodsX*, 2019. With Heri Kuswanto. [doi.org/10.1016/j.mex.2019.05.029](https://doi.org/10.1016/j.mex.2019.05.029)
+- **Analyzing User Reviews with Aspect-Based Sentiment Analysis for Enhancing Digital Health Service Quality Using Machine Learning** — ITS Repository. [repository.its.ac.id/117444](https://repository.its.ac.id/117444/)
 
 Most of my day-to-day work — certification registry tooling, KoboToolbox automation, field data QC pipelines — lives in private and client repositories, so it isn't visible here.
 
