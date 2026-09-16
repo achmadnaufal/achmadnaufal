@@ -9,7 +9,7 @@ Lead Data Analyst working on **nature-based solutions**, carbon markets, and fie
 - 🌱 **NbS & Carbon Markets** — MRV data pipelines, certification registry reconciliation, field data quality
 - 🗺️ **Geospatial Analysis** — parcel mapping, GPS validation, track geometry, QGIS workflows
 - 📊 **BI & Analytics** — Power BI (advanced DAX), Tableau, SQL-first data models
-- 🛠️ **Data Engineering** — DuckDB, Postgres, Python pipelines, KoboToolbox / ODK integrations
+- 🛠️ **Data Engineering** — DuckDB, dbt, Postgres, Python pipelines, KoboToolbox / ODK integrations
 
 ---
 
@@ -18,6 +18,7 @@ Lead Data Analyst working on **nature-based solutions**, carbon markets, and fie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
