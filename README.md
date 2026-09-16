@@ -1,15 +1,15 @@
 # Achmad Naufal
 
-Lead Data Analyst focused on **nature-based solutions**, carbon markets, and field data systems across Asia. I build things that help conservation projects make better decisions with their data.
+Lead Data Analyst working on **nature-based solutions**, carbon markets, and field data systems across Asia. Most of what I build is internal tooling that helps conservation projects trust their own data — MRV pipelines, registry reconciliation, and field data QC.
 
 ---
 
 ### What I Work On
 
-- 🌱 **NbS & Carbon Markets** — MRV data pipelines, project monitoring dashboards, field data quality
-- 🗺️ **Geospatial Analysis** — parcel mapping, GPS validation, QGIS workflows
+- 🌱 **NbS & Carbon Markets** — MRV data pipelines, certification registry reconciliation, field data quality
+- 🗺️ **Geospatial Analysis** — parcel mapping, GPS validation, track geometry, QGIS workflows
 - 📊 **BI & Analytics** — Power BI (advanced DAX), Tableau, SQL-first data models
-- 🛠️ **Data Engineering** — DuckDB, dbt, Python pipelines, KoboToolbox integrations
+- 🛠️ **Data Engineering** — DuckDB, Postgres, Python pipelines, KoboToolbox / ODK integrations
 
 ---
 
@@ -18,7 +18,6 @@ Lead Data Analyst focused on **nature-based solutions**, carbon markets, and fie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -27,22 +26,16 @@ Lead Data Analyst focused on **nature-based solutions**, carbon markets, and fie
 
 ---
 
-### Highlighted Projects
+### Things I've Built
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [field-data-toolkit](https://github.com/achmadnaufal/field-data-toolkit) | GPS validation, parcel area checks, KoboToolbox-style data quality for NbS field data | Python · DuckDB · rich |
-| [nbs-monitoring-dashboard](https://github.com/achmadnaufal/nbs-monitoring-dashboard) | Streamlit dashboard for tracking NbS project KPIs — trees, area, farmers | DuckDB · Streamlit · Plotly |
-| [publication](https://github.com/achmadnaufal/publication) | Research papers on applied statistics & ML | R · Python |
+| [xlsform-debugger-v2](https://github.com/achmadnaufal/xlsform-debugger-v2) | Debug KoboToolbox / ODK XLSForms locally before deployment. Uses the same enketo-core renderer Kobo does, so what you test is what your field team sees. | TypeScript · enketo-core · FastAPI |
+| [panelharga](https://github.com/achmadnaufal/panelharga) · [live](https://panelharga.achmadnaufal.com) | Bulk-downloads Indonesian food commodity prices from the Kementan panel harga site — every province and commodity at once, instead of exporting one at a time by hand. | Python |
+| [banjir-achmadnaufal](https://github.com/achmadnaufal/banjir-achmadnaufal) · [live](https://banjir.achmadnaufal.com) | Mobile-first PWA for the Pesanggrahan water-gate post in Jakarta. Live water level with a browser alarm when it crosses into a higher siaga band. No backend — reads the public DSDA DKI endpoints directly. | TypeScript · Cloudflare Pages |
+| [publication](https://github.com/achmadnaufal/publication) | Research papers on applied statistics & ML. | R · Python |
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmadnaufal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadnaufal&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
+Most of my day-to-day work — certification registry tooling, KoboToolbox automation, field data QC pipelines — lives in private and client repositories, so it isn't visible here.
 
 ---
 
